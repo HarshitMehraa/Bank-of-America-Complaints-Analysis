@@ -21,5 +21,5 @@
 **Slicers**: Allows user to filter data by Year, State, Timely Response, Complaints Submitted Via.
 **Line Chart**: Visualizes the Complaints trend over Years.
 **Bar Chart**: Visualizes the Complaints by Submitted Platform and Timely Reponse Status.
-**Column Chart**: Visualizes the Sales trend over Years.
+**Map**: Visualizes the Complaints by State.
 
